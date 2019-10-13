@@ -23,7 +23,7 @@
   },
   "main": "./lib/ffi",
   "dependencies": {
-    "bindings": "^1.5.0",
+    "bindings": "git+ssh://git@github.com:beatdigit/node-bindings.git#master",
     "debug": "*",
     "nan": "^2.13.2",
     "ref": "git+ssh://git@github.com:beatdigit/ref.git#master",
